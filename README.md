@@ -1,2 +1,2 @@
 # safespace-app
-It is note making web application using PHP, MySQL, HTML,Bootstrap,CSS
+It is a note making web application using PHP, MySQL, HTML,Bootstrap,CSS
